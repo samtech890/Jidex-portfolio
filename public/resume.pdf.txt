@@ -1,0 +1,6 @@
+JIDEX CODER — Resume Placeholder
+
+Replace this file with your real PDF resume at public/resume.pdf
+
+Skills: Next.js, React, TypeScript, AI, Mobile, Full Stack
+Contact: hello@jidexcoder.com
